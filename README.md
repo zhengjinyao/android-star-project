@@ -38,7 +38,22 @@
  项目地址：https://github.com/w446108264/ScrollableLayout
  <br>
  ![](https://github.com/w446108264/ScrollableLayout/raw/master/output/show.gif)
-  
+
+ * PaperShredder
+ <br>
+ 简介：碎纸机动画，点子出自dribbble
+ <br>
+ 项目地址：https://github.com/ldoublem/PaperShredder
+ <br>
+ ![](https://github.com/ldoublem/PaperShredder/blob/master/screenshot/shot.png)
+
+ * ShineButton
+ <br>
+ 简介：This is a UI lib for Android. Effects like shining.
+ <br>
+ 项目地址：https://github.com/ChadCSong/ShineButton
+ <br>
+ ![](https://github.com/ChadCSong/ShineButton/blob/master/demo_shine_others.gif)
 
 
 ##第二部分listview&recycleView
@@ -62,7 +77,7 @@
  <br>
  项目地址：https://github.com/thoughtbot/expandable-recycler-view
  <br>
- ![](https://cloud.githubusercontent.com/assets/5386934/17074123/b9d1efca-502c-11e6-9c9f-fb6180ee337f.gif)
+<img width="300" width=“500” src="https://cloud.githubusercontent.com/assets/5386934/17074123/b9d1efca-502c-11e6-9c9f-fb6180ee337f.gif"></img>
 4. RecyclerRefreshLayout
  <br>
  简介：A pull to refresh layout for android, the RecyclerRefreshLayout is based on the SwipeRefreshLayout. support all the views, highly customizable, code simplicity, etc
