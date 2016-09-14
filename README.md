@@ -1,4 +1,10 @@
 # android-star-project个人收集的android开源库
+##目前包括：
+第一部分View
+第二部分listview&recycleView
+第三部分ViewPager
+第四部分优秀的库
+
 
 ##第一部分View
 *  TapTargetView
