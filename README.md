@@ -79,6 +79,24 @@
  <br>
  ![](https://github.com/wenhuaijun/EasyTagDragView/blob/master/introduce.gif)
 
+*  LoadingView
+ <br>
+ 简介：简单的带有动画效果的加载控件
+ <br>
+ 项目地址：https://github.com/ldoublem/LoadingView
+ <br>
+ ![](https://github.com/ldoublem/LoadingView/blob/master/screen/%E6%95%88%E6%9E%9C.gif)
+
+*  MaterialDateTimePicker
+ <br>
+ 简介：Material DateTime Picker - Select a time/date in style
+ <br>
+ 项目地址：https://github.com/wdullaer/MaterialDateTimePicker
+ <br>
+ ![](https://camo.githubusercontent.com/1467c2b5d209d68aef8ac96cc6bdc28a6c2b1f3d/68747470733a2f2f7261772e6769746875622e636f6d2f7764756c6c6165722f4d6174657269616c4461746554696d655069636b65722f67682d70616765732f696d616765732f646174655f7069636b65722e706e67)
+
+
+
 ##第二部分listview&recycleView
 1. RecyclerViewCardGallery
  <br>
