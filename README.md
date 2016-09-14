@@ -9,18 +9,23 @@
 
 2. android-autofittextview
  <br>
- 自动适应大小的textview<br>
- 项目地址：https://github.com/grantland/android-autofittextview<br>
+ 自动适应大小的textview
+ <br>
+ 项目地址：https://github.com/grantland/android-autofittextview
+ <br>
  ![](https://raw.githubusercontent.com/grantland/android-autofittextview/master/website/static/autofittextview.gif)
 
-3. RecyclerViewCardGallery
+
+
+##第二部分listview&recycleView
+1. RecyclerViewCardGallery
  <br>
  RecyclerView实现Card Gallery效果
+ <br>
  项目地址：https://github.com/huazhiyuan2008/RecyclerViewCardGallery
  <br>
  ![](https://github.com/huazhiyuan2008/RecyclerViewCardGallery/blob/master/art/RecyclerViewCardGallery_blur.gif)
-
-4. SmartisanPull
+2. SmartisanPull
  <br>
  “锤子下拉”，东半球最优雅的下拉控件。也叫SmartisanRefreshableLayout。
  <br>
