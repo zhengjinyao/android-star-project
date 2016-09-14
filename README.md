@@ -38,6 +38,40 @@
  <br>
  ![](https://github.com/w446108264/ScrollableLayout/raw/master/output/show.gif)
 
+6. TastyToast
+ <br>
+ 简介：Make your native android Toasts Tasty
+ <br>
+ 项目地址：https://github.com/yadav-rahul/TastyToast
+ <br>
+ ![](https://github.com/yadav-rahul/TastyToast/blob/lib/static/success.gif)
+
+7. HTextView
+ <br>
+ 简介：Animation effects to TextView
+ <br>
+ 项目地址：https://github.com/hanks-zyh/HTextView
+ <br>
+ ![](https://github.com/hanks-zyh/HTextView/blob/master/screenshot/demo.gif)
+
+8. BottomSheetExample
+ <br>
+ 简介：A sample project with the new BottomSheet classes from the android support library
+ <br>
+ 项目地址：https://github.com/rubensousa/BottomSheetExample
+ <br>
+![](https://github.com/rubensousa/BottomSheetExample/blob/master/screens/screen-dialog.png)
+
+8. SpringView
+ <br>
+ 简介：A custom view can pull up and down,support ScrollView,ListView,RecyclerView,WebView and all another views, easy to use
+ <br>
+ 项目地址：https://github.com/liaoinstan/SpringView
+ <br>
+![](https://github.com/liaoinstan/SpringView/blob/master/screenshot/1459212323072_s.gif)
+![](https://github.com/liaoinstan/SpringView/blob/master/screenshot/1459212372609_s.gif)
+![](https://github.com/liaoinstan/SpringView/blob/master/screenshot/1459212462800_s.gif)
+![](https://github.com/liaoinstan/SpringView/blob/master/screenshot/1459212485237_s.gif)
 
 
 ##第二部分listview&recycleView
@@ -69,6 +103,14 @@
  项目地址：https://github.com/dinuscxj/RecyclerRefreshLayout
  <br>
  ![](https://raw.githubusercontent.com/dinuscxj/RecyclerRefreshLayout/master/Preview/RecyclerRefreshLayoutNoData.gif?width=300)
+
+5. RecyclerViewPager
+ <br>
+ 介绍：A ViewPager implemention base on RecyclerView's code. Support fling operation like gallary.
+ <br>
+ 项目地址：https://github.com/lsjwzh/RecyclerViewPager
+ <br>
+ ![](https://github.com/lsjwzh/RecyclerViewPager/blob/master/vertical.gif)
 
 ##第三部分ViewPager
 1. InfiniteCycleViewPager
