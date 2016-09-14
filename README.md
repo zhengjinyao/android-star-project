@@ -6,7 +6,8 @@
  简介：An implementation of tap targets from the Material Design guidelines for feature discovery
  <br>
  项目地址：https://github.com/KeepSafe/TapTargetView
- ![](https://github.com/KeepSafe/TapTargetView/blob/master/art/video.gif)
+ <br>
+<img width="300" width=“500” src="https://github.com/KeepSafe/TapTargetView/blob/master/art/video.gif"></img>
 
 2. android-autofittextview
  <br>
