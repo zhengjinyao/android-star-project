@@ -39,7 +39,7 @@
  <br>
  ![](https://github.com/w446108264/ScrollableLayout/raw/master/output/show.gif)
 
- * PaperShredder
+* PaperShredder
  <br>
  简介：碎纸机动画，点子出自dribbble
  <br>
@@ -55,6 +55,29 @@
  <br>
  ![](https://github.com/ChadCSong/ShineButton/blob/master/demo_shine_others.gif)
 
+*  SlantedTextView
+ <br>
+ 简介：Android slanted TextView .
+ <br>
+ 项目地址：https://github.com/HeZaiJin/SlantedTextView
+ <br>
+ ![](https://github.com/HeZaiJin/SlantedTextView/blob/master/screen_shot/screenshot.png)
+
+*  StackOverView
+ <br>
+ 简介：a custom widget of android，like task manager of android 5.0.（Android 5.0 任务管理器控件）
+ <br>
+ 项目地址：https://github.com/Bossyao168/StackOverView
+ <br>
+ ![]()
+
+*  EasyTagDragView
+ <br>
+ 简介：仿网易新闻app下拉标签选择菜单，长按拖动排序，点击增删标签控件
+ <br>
+ 项目地址：https://github.com/wenhuaijun/EasyTagDragView
+ <br>
+ ![](https://github.com/wenhuaijun/EasyTagDragView/blob/master/introduce.gif)
 
 ##第二部分listview&recycleView
 1. RecyclerViewCardGallery
