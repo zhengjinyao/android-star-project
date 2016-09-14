@@ -114,34 +114,43 @@
 
 
 ##第二部分listview&recycleView
-1. RecyclerViewCardGallery
+* RecyclerViewCardGallery
  <br>
  简介：RecyclerView实现Card Gallery效果
  <br>
  项目地址：https://github.com/huazhiyuan2008/RecyclerViewCardGallery
  <br>
  ![](https://github.com/huazhiyuan2008/RecyclerViewCardGallery/blob/master/art/RecyclerViewCardGallery_blur.gif)
-2. SmartisanPull
+* SmartisanPull
  <br>
  简介：“锤子下拉”，东半球最优雅的下拉控件。也叫SmartisanRefreshableLayout。
  <br>
  项目地址：https://github.com/hougr/SmartisanPull
  <br>
  ![](https://github.com/hougr/SmartisanPull/blob/master/screenshot/smartisan_pull_small.gif)
-3. expandable-recycler-view
+* expandable-recycler-view
  <br>
  简介：Custom Android RecyclerViewAdapters that collapse and expand
  <br>
  项目地址：https://github.com/thoughtbot/expandable-recycler-view
  <br>
 <img width="300" width=“500” src="https://cloud.githubusercontent.com/assets/5386934/17074123/b9d1efca-502c-11e6-9c9f-fb6180ee337f.gif"></img>
-4. RecyclerRefreshLayout
+* RecyclerRefreshLayout
  <br>
  简介：A pull to refresh layout for android, the RecyclerRefreshLayout is based on the SwipeRefreshLayout. support all the views, highly customizable, code simplicity, etc
  <br>
  项目地址：https://github.com/dinuscxj/RecyclerRefreshLayout
  <br>
  ![](https://raw.githubusercontent.com/dinuscxj/RecyclerRefreshLayout/master/Preview/RecyclerRefreshLayoutNoData.gif?width=300)
+
+*  XRecyclerView
+ <br>
+ 简介:a RecyclerView that implements pullrefresh , loadingmore and header featrues.you can use it like a standard RecyclerView. you don't need to implement a special adapter .
+ <br>
+ 项目地址：https://github.com/jianghejie/XRecyclerView
+ <br>
+ <img width="300" src="https://github.com/jianghejie/XRecyclerView/blob/master/art/demo.gif"></img>
+
 
 ##第三部分ViewPager
 * InfiniteCycleViewPager
