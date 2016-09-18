@@ -7,6 +7,14 @@
 
 
 ##第一部分View
+ * XanderPanel
+ <br>
+ 简介：
+ <br>
+ 项目地址：https://github.com/XanderWang/XanderPanel
+ <br>
+ ![](https://github.com/XanderWang/XanderPanel/raw/master/screenshot/xander_panel.gif)
+ 
 *  TapTargetView
  <br>
  简介：An implementation of tap targets from the Material Design guidelines for feature discovery
@@ -351,7 +359,7 @@
  <br>
  ![](https://raw.githubusercontent.com/Frank-Zhu/TriangleRectangleLabelView/master/art/art.png)
  
-  * WanDaoJiaIndex
+ * WanDaoJiaIndex
  <br>
  简介：Android-仿豌豆荚首页导航实现 http://www.darcye.com/article/44558296
  <br>
