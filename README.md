@@ -1,9 +1,10 @@
 # android-star-project个人收集的android开源库
 ##目前包括：
-第一部分View
-第二部分listview&recycleView
-第三部分ViewPager
-第四部分优秀的库
+*  第一部分View
+*  第二部分listview&recycleView
+*  第三部分ViewPager
+*  第四部分dialogs
+*  第五部分优秀的库
 
 
 ##第一部分View
@@ -367,6 +368,72 @@
  <br>
  ![](https://github.com/YeDaxia/WanDaoJiaIndex/raw/master/jietu.gif)
  
+  * BottomSheetExample
+ <br>
+ 简介：A sample project with the new BottomSheet classes from the android support library
+
+For a simpler integration, consider using this: https://github.com/rubensousa/BottomSheetBuilder
+ <br>
+ 项目地址：https://github.com/rubensousa/BottomSheetExample
+ <br>
+ ![](https://github.com/rubensousa/BottomSheetExample/raw/master/screens/screen-view.png)
+ 
+ * Pulsator4Droid
+ <br>
+ 简介：Pulse animation for Android.
+ <br>
+ 项目地址：https://github.com/booncol/Pulsator4Droid
+ <br>
+ ![](https://github.com/booncol/Pulsator4Droid/raw/master/demo.gif)
+ 
+  * -dampView-springingView
+ <br>
+ 简介：一款加载动画，不同的物体加速下落砸到了文字上，文字逞阻尼效果，向下弯曲并像橡皮筋一样弹动回去的效果
+ <br>
+ 项目地址：https://github.com/Huyamin150/-dampView-springingView
+ <br>
+ ![](https://camo.githubusercontent.com/c13c4178eaa9b1cd5b02cbc9ff10ca75baeb7b12/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630343135313134343535333234)
+ 
+ *  UnderLineLinearLayout
+ <br>
+ 简介：这是一个简单的时间轴实现(LinearLayout)
+ <br>
+ 项目地址：https://github.com/razerdp/UnderLineLinearLayout
+ <br>
+ ![](https://github.com/razerdp/UnderLineLinearLayout/raw/master/img/underlinelayout.gif)
+ 
+ *  CountdownView
+ <br>
+ 简介：Android Countdown View
+ <br>
+ 项目地址：https://github.com/iwgang/CountdownView
+ <br>
+ ![](https://raw.githubusercontent.com/iwgang/CountdownView/master/screenshot/s_main.png)
+ 
+  *  MaterialEditText
+ <br>
+ 简介：
+ <br>
+ 项目地址：https://github.com/rengwuxian/MaterialEditText
+ <br>
+ ![](https://github.com/rengwuxian/MaterialEditText/raw/master/images/material_edittext.png)
+ 
+ *  FloatViewFinal
+ <br>
+ 简介：泡椒网游戏SDK Float View(悬浮窗)
+ <br>
+ 项目地址：https://github.com/pengjianbo/FloatViewFinal
+ <br>
+ ![](https://github.com/pengjianbo/FloatViewFinal/raw/master/images/screenshot0.png)
+ 
+  *  AndroidScrollingImageView
+ <br>
+ 简介：An Android view for displaying repeated continuous side scrolling images. This can be used to create a parallax animation effect.
+ <br>
+ 项目地址：https://github.com/Q42/AndroidScrollingImageView
+ <br>
+ ![](https://raw.githubusercontent.com/Q42/AndroidScrollingImageView/master/preview.gif)
+ 
  
 
 ##第二部分listview&recycleView
@@ -439,6 +506,22 @@
  <br>
  ![](https://camo.githubusercontent.com/fde8f2c41a4224b7c332eb0ce27ef50bd09f6c2f/687474703a2f2f692e67697068792e636f6d2f55564b455745477536347a36302e676966)
 
+ * StickyHeaders
+ <br>
+ 简介：Adapter and LayoutManager for Android RecyclerView which enables sticky header positioning.
+ <br>
+ 项目地址：https://github.com/ShamylZakariya/StickyHeaders
+ <br>
+ ![](https://camo.githubusercontent.com/fde8f2c41a4224b7c332eb0ce27ef50bd09f6c2f/687474703a2f2f692e67697068792e636f6d2f55564b455745477536347a36302e676966)
+
+ * folding-cell-android
+ <br>
+ 简介：FoldingCell is an expanding content cell inspired by folding paper material https://business.ramotion.com/gthb-casestudies
+ <br>
+ 项目地址：https://github.com/Ramotion/folding-cell-android
+ <br>
+ ![](https://github.com/Ramotion/folding-cell-android/raw/master/folding_cell_preview.gif)
+ 
 
 ##第三部分ViewPager
 * InfiniteCycleViewPager
@@ -481,3 +564,300 @@
  <br>
  <img width="300" src="https://raw.githubusercontent.com/florent37/MaterialViewPager/master/screenshots/screenshot_2_small.png"></img>
 
+  *  EasyIntro
+ <br>
+ 简介:易用的应用介绍页面
+ <br>
+ 项目地址：https://github.com/meNESS/EasyIntro
+ <br>
+ <img width="300" src="https://raw.githubusercontent.com/meNESS/EasyIntro/master/screenshots/1.jpg"></img>
+ 
+
+##第四部分dialogs
+
+
+
+##第五部分优秀的库
+*  Small
+ <br>
+ 简介:插件化
+ <br>
+ 项目地址：https://github.com/wequick/Small
+ <br>
+ <img width="300" src="https://camo.githubusercontent.com/4095ad462f817d90087a428b9bc2740304ca4e56/687474703a2f2f636f64652e7765717569636b2e6e65742f696d616765732f736d616c6c2d69636f6e2d3531322e706e67"></img>
+ 
+*  VirtualApp
+ <br>
+ 简介:插件化
+ <br>
+ 项目地址：https://github.com/asLody/VirtualApp
+ <br>
+ 
+ *  AndroidPermissions
+ <br>
+ 简介:android6.0权限管理
+ <br>
+ 项目地址：https://github.com/ZeroBrain/AndroidPermissions
+ <br>
+ 
+  *  AndroidUtilCode
+ <br>
+ 简介:各种工具类
+ <br>
+ 项目地址：https://github.com/Blankj/AndroidUtilCode
+ <br>
+ 
+  *  ViewAnimator
+ <br>
+ 简介:动画库
+ <br>
+ 项目地址：https://github.com/florent37/ViewAnimator
+ <br>
+ ![](https://raw.githubusercontent.com/florent37/ViewAnimator/master/montain_small.jpg)
+ 
+ *  joda-time-android
+ <br>
+ 简介:时间库
+ <br>
+ 项目地址：https://github.com/dlew/joda-time-android
+ <br>
+ 
+  *  BiliShare
+ <br>
+ 简介:BiliShare分享库
+ <br>
+ 项目地址：https://github.com/Bilibili/BiliShare
+ <br>
+ ![](https://camo.githubusercontent.com/560a5a611b3abea2c3f655110d713e34e9ef2ffd/687474703a2f2f37716e6175352e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f53637265656e73686f745f323031362d30342d32362d30302d31332d33352e706e673f696d61676556696577322f312f772f3336302f682f363430)
+ 
+ *  AndroidChromium
+ <br>
+ 简介:谷歌浏览器安卓版源码项目
+ <br>
+ 项目地址：https://github.com/JackyAndroid/AndroidChromium
+ <br>
+ ![](https://github.com/JackyAndroid/AndroidChromium/raw/master/screenshots/S60709-172236.jpg)
+ 
+ *  RemoveButterKnife
+ <br>
+ 简介:An Android Studio plugin to help remove use of ButterKnife
+ <br>
+ 项目地址：https://github.com/u3shadow/RemoveButterKnife
+ <br>
+ ![](https://camo.githubusercontent.com/0327cda5b531ab6f2b803abe295c42225668d28d/687474703a2f2f7777772e7533636f64696e672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30362f312e676966)
+ 
+ *  f8app
+ <br>
+ 简介:学习RN最好的示例
+ <br>
+ 项目地址：https://github.com/fbsamples/f8app
+ <br>
+ ![](https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png)
+ 
+  *  PinLockView
+ <br>
+ 简介:锁屏
+ <br>
+ 项目地址：https://github.com/aritraroy/PinLockView
+ <br>
+ ![](https://github.com/aritraroy/PinLockView/raw/master/screens/promo.png)
+ 
+  *  ijkplayer
+ <br>
+ 简介:bilibili ijkplayer
+ <br>
+ 项目地址：https://github.com/Bilibili/ijkplayer
+ <br>
+ 
+ *  ExoPlayer
+ <br>
+ 简介:google ExoPlayer
+ <br>
+ 项目地址：https://github.com/google/ExoPlayer
+ <br>
+ 
+ *  Calligraphy
+ <br>
+ 简介:字体库
+ <br>
+ 项目地址：https://github.com/chrisjenx/Calligraphy
+ <br>
+ ![](https://github.com/chrisjenx/Calligraphy/raw/master/screenshot.png)
+ 
+ *  android-hidden-api
+ <br>
+ 简介:隐藏API
+ <br>
+ 项目地址：https://github.com/anggrayudi/android-hidden-api
+ <br>
+ 
+  *  easydeviceinf
+ <br>
+ 简介:方便获取设备信息的库
+ <br>
+ 项目地址：https://github.com/nisrulz/easydeviceinf
+ <br>
+ 
+ *  easydeviceinf
+ <br>
+ 简介:方便获取设备信息的库
+ <br>
+ 项目地址：https://github.com/nisrulz/easydeviceinf
+ <br>
+ 
+ *  GifLoadingView
+ <br>
+ 简介:加载GIF的简易库
+ <br>
+ 项目地址：https://github.com/Rogero0o/GifLoadingView
+ <br>
+ ![](https://raw.githubusercontent.com/Rogero0o/GifLoadingView/master/sample/src/main/res/drawable-hdpi/num82.gif)
+ 
+  *  LoadingDrawable
+ <br>
+ 简介:LoadingDrawable is some android animations implement of drawable: a library can be used in the pull-down to refresh, the placeholders of image loading and the time-consuming tasks. This project idea is from the link.
+ <br>
+ 项目地址：https://github.com/dinuscxj/LoadingDrawable
+ <br>
+ ![](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/ShapeChangeDrawable.gif)
+ 
+ *  agera
+ <br>
+ 简介:Reactive Programming for Android
+ <br>
+ 项目地址：https://github.com/google/agera
+ <br>
+ 
+ *  JKeyboardPanelSwitch
+ <br>
+ 简介:Android键盘面板冲突 布局闪动处理方案
+ <br>
+ 项目地址：https://github.com/Jacksgong/JKeyboardPanelSwitch
+ <br>
+ ![](https://raw.githubusercontent.com/Jacksgong/JKeybordPanelSwitch/master/art/non-fullscreen_resolved.gif)
+ 
+ *  StatusBarCompat
+ <br>
+ 简介:
+ <br>
+ 项目地址：https://github.com/niorgai/StatusBarCompat
+ <br>
+ ![](https://camo.githubusercontent.com/ffdde1e5a95d4c6732cceb19e88fda8bb0668a78/687474703a2f2f3773627179732e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f66756c6c53637265656e2e706e67)
+ 
+ *  StatusBarUtil
+ <br>
+ 简介:
+ <br>
+ 项目地址：https://github.com/laobie/StatusBarUtil
+ <br>
+ ![](https://github.com/laobie/StatusBarUtil/raw/master/img/use_in_fragment.gif)
+ 
+  *  android-butterknife-zelezny
+ <br>
+ 简介:A util for setting status bar style on Android App. http://laobie.github.io/android/2016/03/27/statusbar-util.html
+ <br>
+ 项目地址：https://github.com/avast/android-butterknife-zelezny
+ <br>
+ ![](https://github.com/avast/android-butterknife-zelezny/raw/master/img/zelezny_animated.gif)
+ 
+ *  NotifyUtil
+ <br>
+ 简介:高仿淘宝，网易新闻，微信，应用宝，环聊等等热门App的通知视图，并且完通知工具类的封装，提供多达8种最常见的App通知接口,支持Android 5.0悬浮式通知样式
+ <br>
+ 项目地址：https://github.com/wenmingvs/NotifyUtil
+ <br>
+ ![](https://camo.githubusercontent.com/41d696a579065eb8f234a00485387947655d12a0/687474703a2f2f7777332e73696e61696d672e636e2f6c617267652f3639316363313531677731663037373476737937786732306463306b307836702e676966)
+ 
+ *  FileDownloader
+ <br>
+ 简介:Multitask、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSingle-process
+ <br>
+ 项目地址：https://github.com/lingochamp/FileDownloader
+ <br>
+ ![](https://github.com/lingochamp/FileDownloader/raw/master/art/parallel_tasks_demo.gif)
+ 
+  *  ToggleDrawable
+ <br>
+ 简介:oggleDrawable helps to create animated drawable transitions using a minimalistic and clean API. The implementation relies on bezier curves instead of SVG graphics, and is compatible below API 19.
+ <br>
+ 项目地址：https://github.com/renaudcerrato/ToggleDrawable
+ <br>
+ ![](https://github.com/renaudcerrato/ToggleDrawable/raw/master/artworks/toggle.gif)
+ 
+   *  SmartTabLayout
+ <br>
+ 简介:A custom ViewPager title strip which gives continuous feedback to the user when scrolling
+ <br>
+ 项目地址：https://github.com/ogaclejapan/SmartTabLayout
+ <br>
+ ![](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif)
+ ![](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo2.gif)
+ ![](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo3.gif)
+ ![](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo4.gif)
+ ![](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo5.gif)
+ ![](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo6.gif)
+ 
+ *  BlurImageView
+ <br>
+ 简介:BlurImageView, you can load your image progressively like Medium.First show user a blurry image, At the same time, load the real image, once loaded, replace the blurry one automatically
+ <br>
+ 项目地址：https://github.com/wingjay/BlurImageView
+ <br>
+ ![](https://github.com/wingjay/BlurImageView/raw/master/assets/blurImageView_nm.gif)
+ 
+  *  SystemBarTint
+ <br>
+ 简介:Apply background tinting to the Android system UI when using KitKat translucent modes
+ <br>
+ 项目地址：https://github.com/jgilfelt/SystemBarTint
+ <br>
+ ![](https://camo.githubusercontent.com/fbbeaab2048f78e2d4974bb1559544c9f22eccae/68747470733a2f2f7261772e6769746875622e636f6d2f6a67696c66656c742f53797374656d42617254696e742f6d61737465722f73637265656e73686f742e706e67)
+ 
+  *  AVLoadingIndicatorView
+ <br>
+ 简介:
+ <br>
+ 项目地址：https://github.com/81813780/AVLoadingIndicatorView
+ <br>
+ ![](https://github.com/81813780/AVLoadingIndicatorView/raw/master/screenshots/avi.gif)
+ 
+  *  android-parcelable-intellij-plugin
+ <br>
+ 简介:
+ <br>
+ 项目地址：https://github.com/mcharmas/android-parcelable-intellij-plugin
+ <br>
+ ![](https://github.com/mcharmas/android-parcelable-intellij-plugin/raw/master/screenshot.png)
+ 
+  *  DiskLruCache
+ <br>
+ 简介:
+ <br>
+ 项目地址：https://github.com/JakeWharton/DiskLruCache
+ <br>
+ 
+  *  AndroidViewAnimations
+ <br>
+ 简介:Cute view animation collection.
+ <br>
+ 项目地址：https://github.com/daimajia/AndroidViewAnimations
+ <br>
+ ![](https://camo.githubusercontent.com/c41223966bdfed2260dbbabbcbae648e5db542c6/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f3631306463303334677731656a37356d69327737376732306333306a623471722e676966)
+ 
+  *  ListViewAnimations
+ <br>
+ 简介:An Android library which allows developers to easily add animations to ListView items
+ <br>
+ 项目地址：https://github.com/nhaarman/ListViewAnimations
+ <br>
+ ![](https://raw.githubusercontent.com/nhaarman/ListViewAnimations/gh-pages/images/dynamiclistview.gif)
+ 
+  *  PhotoView
+ <br>
+ 简介:Implementation of ImageView for Android that supports zooming, by various touch gestures.
+ <br>
+ 项目地址：https://github.com/chrisbanes/PhotoView
+ <br>
+ 
+ 
+ 
