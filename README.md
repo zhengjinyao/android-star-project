@@ -5,6 +5,7 @@
 *  第三部分ViewPager
 *  第四部分dialogs
 *  第五部分优秀的库
+*  第六部分优秀的开源项目
 
 
 ##第一部分View
@@ -859,5 +860,41 @@ For a simpler integration, consider using this: https://github.com/rubensousa/Bo
  项目地址：https://github.com/chrisbanes/PhotoView
  <br>
  
+   *  Material-Animations
+ <br>
+ 简介:
+    Animate activity layout content when transitioning from one activity to another.
+	Animate shared elements (Hero views) in transitions between activities.
+    Animate view changes within same activity.
+ <br>
+ 项目地址：https://github.com/lgvalle/Material-Animations
+ <br>
+ ![](https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_explode.gif)
  
+ 
+ ##优秀的开源项目
+ 
+ *  StylishMusicPlayer
+ <br>
+ 简介:A Stylish Music Player
+ <br>
+ 项目地址：https://github.com/ryanhoo/StylishMusicPlayer
+ <br>
+ ![](https://github.com/ryanhoo/StylishMusicPlayer/raw/develop/materials/Artboard.png)
+ 
+ *  plaid
+ <br>
+ 简介:An Android app which provides design news & inspiration as well as being an example of implementing material design.
+ <br>
+ 项目地址：https://github.com/nickbutcher/plaid
+ <br>
+ ![](https://github.com/nickbutcher/plaid/raw/master/screenshots/plaid_demo.gif)
+ 
+  *  LookLook
+ <br>
+ 简介:This is a reading news app. you can read Zhihu Daily， News and some pictures.User experience is amasing.The project is updating, welcome to Star and Fork.
+ <br>
+ 项目地址：https://github.com/xinghongfei/LookLook
+ <br>
+ ![](https://github.com/xinghongfei/LookLook/raw/master/screenshots/LookLook.gif)
  
