@@ -829,7 +829,7 @@ For a simpler integration, consider using this: https://github.com/rubensousa/Bo
  <br>
  项目地址：https://github.com/wingjay/BlurImageView
  <br>
- ![](https://github.com/wingjay/BlurImageView/raw/master/assets/blurImageView_nm.gif)
+ <img width="300" src="https://github.com/wingjay/BlurImageView/raw/master/assets/blurImageView_nm.gif"></img>
  
   *  SystemBarTint
  <br>
