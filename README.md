@@ -579,6 +579,31 @@ For a simpler integration, consider using this: https://github.com/rubensousa/Bo
 
 
 ##第五部分优秀的库
+
+*  android-dynamical-loading
+ <br>
+ 简介:在 Android 开发中采用基于 ClassLoader 的动态加载技术
+ <br>
+ 项目地址：https://github.com/kaedea/android-dynamical-loading
+ <br>
+
+
+*  Backboard
+ <br>
+ 简介:A motion-driven animation framework for Android.基于rebound的手势动画
+ <br>
+ 项目地址：https://github.com/tumblr/Backboard
+ <br>
+
+*  rebound
+ <br>
+ 简介:Rebound is a java library that models spring dynamics. 
+ Rebound spring models can be used to create animations that feel natural by introducing real world physics to your application.
+ 简单的说就是可以用来做动画
+ <br>
+ 项目地址：https://github.com/facebook/rebound
+ <br>
+
 *  Small
  <br>
  简介:插件化
@@ -873,6 +898,14 @@ For a simpler integration, consider using this: https://github.com/rubensousa/Bo
  
  
  ##优秀的开源项目
+ 
+  *  mdcc-client
+ <br>
+ 简介:a react-native client for mdcc
+ <br>
+ 项目地址：https://github.com/Bob1993/mdcc-client
+ <br>
+ ![](https://camo.githubusercontent.com/1b727f028f4346a77759122ff8d3b3e14b65dc4c/687474703a2f2f7777332e73696e61696d672e636e2f6c617267652f3030357a55396233677731663832756b7170696e366733306139306965316b792e676966)
  
  *  StylishMusicPlayer
  <br>
