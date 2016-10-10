@@ -523,8 +523,24 @@ For a simpler integration, consider using this: https://github.com/rubensousa/Bo
  <br>
  ![](https://github.com/Ramotion/folding-cell-android/raw/master/folding_cell_preview.gif)
  
+  * SpringView
+ <br>
+ 简介：各种下拉的View
+ <br>
+ 项目地址：https://github.com/liaoinstan/SpringView
+ <br>
+ ![](https://github.com/liaoinstan/SpringView/blob/master/screenshot/1459212323072_s.gif)
+ ![](https://github.com/liaoinstan/SpringView/blob/master/screenshot/1459212372609_s.gif)
+ 
 
 ##第三部分ViewPager
+  *  android-page-transition
+ <br>
+ 简介:<br>
+ 项目地址：https://github.com/xmuSistone/android-page-transition
+ <br>
+ ![](https://github.com/xmuSistone/android-page-transition/blob/master/gif2.gif)
+
 * InfiniteCycleViewPager
  <br>
  简介：Infinite cycle ViewPager with two-way orientation and interactive effect.
@@ -579,6 +595,48 @@ For a simpler integration, consider using this: https://github.com/rubensousa/Bo
 
 
 ##第五部分优秀的库
+
+  *  BGAQRCode-Android
+ <br>
+ 简介:二维码库<br>
+ 项目地址：https://github.com/bingoogolapple/BGAQRCode-Android
+ <br>
+
+  *  tinker
+ <br>
+ 简介:微信补丁库<br>
+ 项目地址：https://github.com/Tencent/tinker
+ <br>
+
+  *  FantasySlide
+ <br>
+ 简介:有意思的侧滑菜单<br>
+ 项目地址：https://github.com/mzule/FantasySlide
+ <br>
+ ![](https://raw.githubusercontent.com/mzule/FantasySlide/master/sample.gif)
+
+  *  BlurredView
+ <br>
+ 简介:Dynamic blur of Image Views for Android. This library is based on RenderScript. You can find more detail about RenderScript here: RenderScript
+ <br>
+ 项目地址：https://github.com/wl9739/BlurredView
+ <br>
+ ![](https://github.com/wl9739/BlurredView/blob/master/Gif/demo.gif)
+
+  *  easypermissions
+ <br>
+ 简介:google权限获取框架
+ <br>
+ 项目地址：https://github.com/googlesamples/easypermissions
+ <br>
+ 
+ *  Router
+ <br>
+ 简介:款简单的Android端用于Activity跳转的路由框架.
+ <br>
+ 项目地址：https://github.com/yjfnypeu/Router
+ <br>
+ ![](https://github.com/yjfnypeu/Router/blob/master/pics/route.gif)
 
 *  android-dynamical-loading
  <br>
